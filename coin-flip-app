@@ -1,0 +1,6 @@
+The Coin Flip App is a simple yet engaging project that simulates flipping a coin. Here's a breakdown:
+Features
+Random outcome: Generates random results, either heads or tails.
+User interface: Typically features a flip button and result display.
+Flip history: Optional feature to track previous flips.
+Statistics: Displays win/loss or heads/tails ratios.
